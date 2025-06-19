@@ -6,10 +6,17 @@ I build this to practice for my final exam for Data Structured and Algorithms cl
 
 ## 📘 What’s Inside
 
-- ✅ `MyArrayList`  
-- ✅ `MyLinkedList`
-- ✅ `MyStack` 
-- ✅ `MyQueue` 
-- ✅ `MyHashMap` 
+- ✅ `Doubly Linked Lists`  
+- ✅ `Linked List`
+- ✅ `Queues` 
+- ✅ `Stacks` 
+- ✅ `Tree`
+
+## 📘 What I learn
+
+- ✅ Implement basic DSA for Linked List
+- ✅ Implement basic DSA for Queues
+- ✅ Implement basic DSA for Stacks
+- ✅ Implement basic DSA for Trees
 
 Thank you for checking this out !!!
