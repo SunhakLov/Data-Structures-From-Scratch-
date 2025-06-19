@@ -6,10 +6,10 @@ I build this to practice for my final exam for Data Structured and Algorithms cl
 
 ## 📘 What’s Inside
 
-- ✅ `MyArrayList` – A dynamic array that resizes as needed  
-- ✅ `MyLinkedList` – A singly linked list implementation  
-- ✅ `MyStack` – Stack built using a linked list (LIFO)  
-- ✅ `MyQueue` – Queue built using a linked list (FIFO)  
-- ✅ `MyHashMap` – A basic hash map using separate chaining  
+- ✅ `MyArrayList`  
+- ✅ `MyLinkedList`
+- ✅ `MyStack` 
+- ✅ `MyQueue` 
+- ✅ `MyHashMap` 
 
 Thank you for checking this out !!!
